@@ -8,3 +8,5 @@ q2Bin: 0,1,2,3,5,7
 binnum: the number of bins of the numerator, denominator and efficiency histograms.
 
 You can use 'source run.sh' to get the result of all the bins
+
+The result of 1-D efficiency is given by "1Deffb*.root"
